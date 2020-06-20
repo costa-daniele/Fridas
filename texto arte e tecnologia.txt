@@ -1,0 +1,27 @@
+Fridas
+
+O trabalho Fridas é feito para as matérias de Arte e Tecnologia e Artimedia III, consiste numa experiência de arte e tecnologia com intuito de uma troca de informações offline.
+
+O nome “Fridas” tem como referência a artista mexicana Frida Kahlo, utilizada como base para a temática arte e mulher, o objetivo é utilizar de mecanismos tecnológicos sem a utilização de internet para compartilhar e instigar a troca de informações, ao mesmo tempo que questiona a presença, de mulheres no cenário artístico.
+A parte tecnológica terá como suporte o dead drop, criado pelo artista digital Aram Bartholl em 2010, o nome vem do método ''dead drop'' de comunicação da espionagem. Os aparelhos podem ser considerados como uma rede P2P anônima e offline.
+Para o dead drop será utilizado um drive USB imbutido na parede, dentro do pendrive terá os arquivos deaddrops-manifesto.txt, arquivo readme.txt e outros com o conteúdo do projeto (programas, as instruções de como utilizar e pasta de artigos sobre o tema).
+
+O conteúdo apresentado dentro do dead drop será um arquivo executável feito no processing.
+
+“O Processing é uma linguagem de programação de código aberto e ambiente de desenvolvimento integrado.
+Um dos objetivos do Processing é atuar como uma ferramenta para não-programadores iniciados com a programação, através da satisfação imediata com um retorno visual. A linguagem tem por base as capacidades gráficas da linguagem de programação Java, simplificando características e criando alguns novos.”
+
+Com essa ideia surge um link para outras formas de compartilhamento, o fanzine, publicações feitas de papel sem necessariamente ter vínculos com editoras ou recursos caros, feito com colagens, desenhos, fotos e depois de feito fotocopiado e disponibilizado de mão em mão ou enviado pelo correio.
+Com a chegada da tecnologia, surge o webzine e o ezine, publicações em blogs ou sites com o mesmo propósito dos fanzines de papel, as trocas de informações.
+Pensando na troca e no processo de empoderamento que as mulheres tem exercido atualmente foi criado no processing um programa que interage com a proposta.
+Foi feito para isso uma coleta de imagens de trabalhos de mulheres, em desenho ou textos, vetorizados, na estética do fanzine e salvos em gif.
+Alguma das imagens são de artistas do CAHL e outras selecionadas na internet.
+Os dois programas funcionam com interação de um computador e com a utilização do mouse.
+Ao interagir no programa a pessoa tem acesso ao banco de dados de forma aleatória podendo intervir num espaço de 800x550, montar as imagens e criar um trabalho que poderá ser baixado em formato de jpg.
+É um trabalho coletivo e tem como finalidade criar arte.
+O outro programa são palavras que aparecem aleatoriamente e com o clique do mouse aparece manchas de tintas e imprime para uma pasta no programa.
+
+Referências
+https://pt.wikipedia.org/wiki/USB_dead_drop
+https://deaddrops.com/pt-pt/
+https://pt.wikipedia.org/wiki/Processing_(linguagem_de_programa%C3%A7%C3%A3o)

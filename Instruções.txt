@@ -1,0 +1,32 @@
+Instruções
+
+1. Leia o manifesto Dead Drop
+
+2. Dentro das pasta Mulheres e Artes há artigos sobre o tema.
+
+3. Dentro da pasta executável há um programa, o primeiro possibilitará criar uma arte de um tamanho A4, ele tem botões que funcionam da seguinte forma:
+
+Ao clicar no programa aparecerá 3 botões
+
+O primeiro, levará a outra parte do programa, clique e inicie.
+
+O segundo, baixa o arquivo feito
+
+O terceiro, apaga o que já foi feito.
+
+
+Na outra parte do programa terá seis botões
+
+o primeiro volta a tela anterior
+
+O segundo volta a imagem anterior
+
+O terceiro inicia o banco de dados do programa, ao clicar na imagem dará para arrastar, girar ou exclui-la. (Só funciona quando a imagem está selecionada, na cor rosa).
+
+O quarto vai para a imagem posterior. 
+
+O quinta gira a imagem (Só funciona quando a imagem está selecionada, na cor rosa).
+
+O sexto exclui a imagem selecionada (Só funciona quando a imagem está selecionada, na cor rosa).
+
+
