@@ -10,7 +10,7 @@
 > Programa criado no software Processing, com artes de Lelê Lótus, Eufeminismo – GulianLin, Polly, Amanda Soriano, Dilua, Andressa Costa, AnaCoruja, Mari Brandão.
 
 
-# Programa Inicial
+__Programa Inicial
 
 ![Fridas Programa-Inicial](fridas01.png)
 
