@@ -1,6 +1,7 @@
 # Fridas
 
 **Leia** os arquivos texto arte e tecnologia.txt e
+</br>
 **Leia** instruções.txt
 
 > Programa desenvolvido com referência ao código https://www.openprocessing.org/sketch/179479, encontrado no site openprocessig.
