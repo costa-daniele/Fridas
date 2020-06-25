@@ -15,10 +15,7 @@ O conteúdo apresentado dentro do dead drop será um arquivo executável feito n
 
 **Leia** texto arte e tecnologia.txt 
 
-> Esse trabalho consiste em um 
-
-
-> Programa desenvolvido com referência ao código https://www.openprocessing.org/sketch/179479, encontrado no site openprocessig.
+> Esse trabalho consiste em um Programa desenvolvido com referência ao código https://www.openprocessing.org/sketch/179479, encontrado no site openprocessig.
 
 > Programa criado no software Processing, com artes de Lelê Lótus, Eufeminismo – GulianLin, Polly, Amanda Soriano, Dilua, Andressa Costa, AnaCoruja, Mari Brandão.
 
@@ -39,4 +36,4 @@ O conteúdo apresentado dentro do dead drop será um arquivo executável feito n
 
 > Para ver mais artes exportadas vá em:
 
-**(Crie sua Arte/Crie sua arte/Fridas_02/export/fridas.jpg)**
+(Crie sua Arte/Crie sua arte/Fridas_02/export/)
