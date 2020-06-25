@@ -2,8 +2,6 @@
 
 # Descrição 
 
-Fridas
-
 O trabalho Fridas é feito para as matérias de Arte e Tecnologia e Artimedia III, pela Universidade Federal do Recôncavo da Bahia, consiste numa experiência de arte e tecnologia com intuito de uma troca de informações offline.
 
 O nome “Fridas” tem como referência a artista mexicana Frida Kahlo, utilizada como base para a temática arte e mulher, o objetivo é utilizar de mecanismos tecnológicos sem a utilização de internet para compartilhar e instigar a troca de informações, ao mesmo tempo que questiona a presença de mulheres no cenário artístico.
@@ -25,11 +23,11 @@ O conteúdo apresentado dentro do dead drop será um arquivo executável feito n
 > Programa criado no software Processing, com artes de Lelê Lótus, Eufeminismo – GulianLin, Polly, Amanda Soriano, Dilua, Andressa Costa, AnaCoruja, Mari Brandão.
 
 
-_Programa Inicial
+# Programa Inicial
 
 ![Fridas Programa-Inicial](fridas01.png)
 
-_Programa em execução
+# Programa em execução
 
 ![Fridas Programa-Execucao](fridas.png)
 
@@ -39,6 +37,6 @@ _Programa em execução
 ![Fridas Programa-Execucao](a.jpg)
 ![Fridas Programa-Execucao](duo.jpg)
 
-_Para ver mais artes exportadas vá em:
+> Para ver mais artes exportadas vá em:
 
-> (Crie sua Arte/Crie sua arte/Fridas_02/export/fridas.jpg)
+**(Crie sua Arte/Crie sua arte/Fridas_02/export/fridas.jpg)**
