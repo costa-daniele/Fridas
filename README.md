@@ -21,4 +21,4 @@
 
 # Algumas artes exportadas
 
-![Fridas Programa-Execucao](Fridas/Crie sua Arte/Crie sua arte/Fridas_02/export/fridas.jpg)
+![Fridas Programa-Execucao](/Crie sua Arte/Crie sua arte/Fridas_02/export/fridas.jpg)
