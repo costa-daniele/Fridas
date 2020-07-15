@@ -1,6 +1,6 @@
 # Fridas
 
-# Descrição 
+## Descrição 
 
 O trabalho Fridas é feito para as matérias de Arte e Tecnologia e Artimedia III, pela Universidade Federal do Recôncavo da Bahia, consiste numa experiência de arte e tecnologia com intuito de uma troca de informações offline.
 
